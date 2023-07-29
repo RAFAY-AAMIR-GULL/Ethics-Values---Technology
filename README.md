@@ -1,4 +1,6 @@
 # Ethics-Values---Technology
+<img src='Ethics Presentation.jpg' width=800>
+<img src='Ethics Presentation(1).jpg' width=800>
 
 
 Ethics are an important part of human civilization.
